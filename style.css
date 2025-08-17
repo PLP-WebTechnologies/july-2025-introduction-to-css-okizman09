@@ -1,0 +1,19 @@
+*{
+    background-color: burlywood;
+    font-family: Impact, Haettenschweiler;
+    color: darkgreen;
+}
+h1,h2{text-align: center;
+    background-color: chocolate;
+    border: 20px,thick;
+    padding: 20px,thick, green;
+    margin: 20px;
+}
+li{
+    background-color: #70cc5a;
+    margin: 15px;
+    border: 10px;
+    padding: 5px; 
+}
+
+
